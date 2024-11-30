@@ -1,0 +1,32 @@
+#posts-container {
+    width: 90%;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+
+.post {
+    background-color: #fff0f5; 
+    border: 2px solid #ffb6c1; 
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+.post h2 {
+    color: #ff1493; 
+    margin-bottom: 10px;
+}
+
+
+.post p {
+    margin: 5px 0;
+}
+
+
+#back-button {
+    display: block;
+    margin: 10px auto;
+}
